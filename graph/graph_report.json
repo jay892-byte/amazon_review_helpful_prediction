@@ -1,0 +1,10 @@
+{
+  "review_nodes": 1000,
+  "product_nodes": 921,
+  "belongs_to_edges": 1000,
+  "has_review_edges": 1000,
+  "label_0": 706,
+  "label_1": 294,
+  "products_with_image": 2,
+  "products_without_image": 919
+}

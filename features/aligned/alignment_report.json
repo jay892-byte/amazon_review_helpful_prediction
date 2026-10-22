@@ -1,0 +1,10 @@
+{
+  "review_count": 1000,
+  "product_count": 921,
+  "review_text_dim": 384,
+  "numeric_dim": 4,
+  "product_text_dim": 384,
+  "image_dim": 512,
+  "products_with_image": 2,
+  "products_without_image": 919
+}
